@@ -1,0 +1,4 @@
+- Utilisation de Spring Boot pour créer un serveur robuste
+- Utilisation de HLS (HTTP Live Streaming) pour la diffusion en continu
+- Intégration avec FFmpeg pour le transcodage et la fragmentation des vidéos
+- Configuration de cache et de sécurité pour améliorer la performance et la robustesse
